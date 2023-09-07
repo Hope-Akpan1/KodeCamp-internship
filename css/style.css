@@ -213,4 +213,10 @@ button:hover {
  form{
  margin-left: 6px;
  }
+  
+.btn{
+  align-items: left;
+}
+
+  
 }
