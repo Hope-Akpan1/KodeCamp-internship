@@ -23,7 +23,7 @@ My approach to this task.
 ### Links
 
 - Solution URL:(https://github.com/Hope-Akpan1/KodeCamp-internship)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://hope-akpan1.github.io/KodeCamp-internship/)
 
 ## My process
 I used my phone to code.
