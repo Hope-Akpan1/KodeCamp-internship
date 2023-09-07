@@ -60,7 +60,7 @@ h1 {
 div.contact {
   padding: 5px 2px;
   color: #000000;
-  text-align: left;
+  text-align: center;
   font-family: 'inter';
   font-size: 14px;
   font-weight: 500;
@@ -123,7 +123,7 @@ button {
   background: #335CA6;
   width: Hug (150px);
   height: Fixed (48px);
-  margin-top: -10px;
+  margin-top: -5px;
   padding: 12px 36px 12px 36px;
   border-radius: 8px;
   gap: 10px;
@@ -139,6 +139,11 @@ button:hover {
   background-color: #262525;
 }
 
+.btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .upload {
   background: #FFFFFF;
